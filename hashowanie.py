@@ -1,7 +1,7 @@
 import hashlib
 
 
-dane1 = "Ala ma kota"
+dane1 = "Ala ma kot"
 dane2 = "Ala ma psa"
 
 
